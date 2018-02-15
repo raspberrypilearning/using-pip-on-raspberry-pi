@@ -6,7 +6,7 @@ To upgrade the software on your Raspberry Pi, including `pip`:
 
 + Open a terminal by clicking, Menu, Accessories, Terminal.
 
-![open a terminal](images/pi_open_terminal)
+![open a terminal](images/pi_open_terminal.PNG)
 
 + Use the following commands to update and upgrade your Raspberry Pi.
 
