@@ -1,13 +1,13 @@
 ## Using pip
 
-There are 2 versions of `pip` installed on the Raspberry Pi:
+There are two versions of `pip` installed on the Raspberry Pi:
 
-1. `pip` used to install Python 2 modules
-2. `pip3` for Python 3 modules
+1. `pip` for installing Python 2 modules
+1. `pip3` for Python 3 modules
 
-Under normal circumstances you should only be using Python 3 and therefore `pip3`.
+Under normal circumstances, you should only be using Python 3 and therefore `pip3`.
 
-- You can install modules using the `pip3 install` command. For example, if you wanted to download the `guizero` module you would type this:
+- You can install modules using the `pip3 install` command. For example, if you wanted to download the `guizero` module, you would type this into a terminal window:
 
     ```bash
     sudo pip3 install guizero
@@ -17,21 +17,21 @@ Under normal circumstances you should only be using Python 3 and therefore `pip3
 
 ### Other pip commands
 
-There is comprehensive [documentation for pip](https://pip.pypa.io) at [pip.pypa.io](https://pip.pypa.io), but here are a few useful commands:
+There is comprehensive documentation for pip at [pip.pypa.io](https://pip.pypa.io) — here are a few useful commands:
 
-Upgrade an already installed module.
++ Upgrade an already installed module:
 
 ```bash
 sudo pip3 install --upgrade name_of_module 
 ```
 
-Uninstall a module.
++ Uninstall a module:
 
 ```bash
 sudo pip3 uninstall name_of_module
 ```
 
-List installed modules.
++ List all installed modules:
 
 ```bash
 sudo pip3 list
