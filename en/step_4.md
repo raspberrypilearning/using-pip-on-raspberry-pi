@@ -1,14 +1,14 @@
 ## Upgrading pip
 
-If you have an older version of Raspbian, the version of pip installed maybe out of date which may cause problems so its a good idea to keep all your software up to date.
+If you're using an older version of Raspbian, the version of pip installed might out of date, which can cause problems. Therefore, it's a good idea to keep your software up to date.
 
-To upgrade the software on your Raspberry Pi, including `pip`:
+To upgrade all the software on your Raspberry Pi, including `pip`:
 
-+ Open a terminal by clicking, Menu, Accessories, Terminal.
++ Open a terminal window by clicking **Menu** > **Accessories** > **Terminal**.
 
 ![open a terminal](images/pi_open_terminal.PNG)
 
-+ Use the following commands to update and upgrade your Raspberry Pi.
++ Type in the following commands to update and upgrade Raspbian.
 
 ```bash
 sudo apt-get update
