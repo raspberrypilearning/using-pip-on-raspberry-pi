@@ -1,7 +1,8 @@
+---
 title: Using pip on Raspberry Pi
 hero_image: images/banner.png
 description: Learn about installing Python software on your Pi with pip
-theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: red
 duration: 2
 listed: false
 ingredient: false
@@ -14,10 +15,12 @@ hardware: ''
 software: ''
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
 - title: What you will need
+  completion: engaged
 - title: What is pip?
 - title: Upgrading pip
+  completion: internal
 - title: Using pip
 - title: What next?
