@@ -19,8 +19,10 @@ steps:
 - title: Introduction
 - title: What you will need
 - title: What is pip?
-  completion: engaged
 - title: Upgrading pip
+  completion:
+  - engaged
 - title: Using pip
-  completion: internal
+  completion:
+  - internal
 - title: What next?
