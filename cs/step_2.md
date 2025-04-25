@@ -2,4 +2,4 @@
 
 ### Hardware
 
-- Raspberry Pi running Raspbian
+- Raspberry Pi OS na Raspberry Pi
