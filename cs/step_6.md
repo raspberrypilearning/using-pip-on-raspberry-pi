@@ -1,6 +1,6 @@
-## What next?
+## Co dál?
 
-Have fun using pip to install lots of new packages! Why not try these resources, which require Python modules to be installed:
+Bav se používáním pip k instalaci spousty nových balíčků! Proč nezkusit tyto zdroje, které vyžadují instalaci modulů Pythonu:
 
 - [Getting started with GUIs](https://projects.raspberrypi.org/en/projects/getting-started-with-guis)
 - [Getting started with the Twitter API](https://projects.raspberrypi.org/en/projects/getting-started-with-the-twitter-api)
