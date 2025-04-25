@@ -1,4 +1,4 @@
-## Using pip
+## Použití pip
 
 There are two versions of `pip` installed on the Raspberry Pi:
 
@@ -15,17 +15,17 @@ Under normal circumstances, you should only be using Python 3 and therefore `pip
 
 ![pi pip install](images/pi_pip_install.gif)
 
-### Other pip commands
+### Další příkazy pip
 
 There is comprehensive documentation for pip at [pip.pypa.io](https://pip.pypa.io) — here are a few useful commands:
 
-- Upgrade an already installed module:
+- Upgrade již nainstalovaného modulu:
 
 ```bash
 sudo pip3 install --upgrade name_of_module 
 ```
 
-- Uninstall a module:
+- Odinstalování modulu:
 
 ```bash
 sudo pip3 uninstall name_of_module
