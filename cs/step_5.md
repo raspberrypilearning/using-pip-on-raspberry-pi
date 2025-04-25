@@ -1,28 +1,28 @@
 ## Použití pip
 
-There are two versions of `pip` installed on the Raspberry Pi:
+Na Raspberry Pi jsou nainstalovány dvě verze `pip`:
 
-1. `pip` for installing Python 2 modules
-2. `pip3` for Python 3 modules
+1. `pip` pro instalaci modulů Pythonu 2
+2. `pip3` pro moduly Pythonu 3
 
-Under normal circumstances, you should only be using Python 3 and therefore `pip3`.
+Za normálních okolností bys měl používat pouze Python 3 a tedy `pip3`.
 
-- You can install modules using the `pip3 install` command. For example, if you wanted to download the `guizero` module, you would type this into a terminal window:
+- Moduly můžeš nainstalovat pomocí příkazu `pip3 install`. Pokud si budeš chtít stáhnout například modul `guizero`, zadej toto do okna terminálu:
 
       ```bash
       sudo pip3 install guizero
       ```
 
-![pi pip install](images/pi_pip_install.gif)
+![pi pip instalace](images/pi_pip_install.gif)
 
 ### Další příkazy pip
 
-There is comprehensive documentation for pip at [pip.pypa.io](https://pip.pypa.io) — here are a few useful commands:
+Existuje komplexní dokumentace pro pip na [pip.pypa.io](https://pip.pypa.io) — zde je několik užitečných příkazů:
 
 - Upgrade již nainstalovaného modulu:
 
 ```bash
-sudo pip3 install --upgrade name_of_module 
+sudo pip3 install --upgrade jméno_modulu 
 ```
 
 - Odinstalování modulu:
@@ -31,7 +31,7 @@ sudo pip3 install --upgrade name_of_module
 sudo pip3 uninstall name_of_module
 ```
 
-- List all installed modules:
+- Seznam všech nainstalovaných modulů:
 
 ```bash
 sudo pip3 list
