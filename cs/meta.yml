@@ -1,7 +1,7 @@
 ---
-title: Using pip on Raspberry Pi
+title: Použití pip na Raspberry Pi
 hero_image: images/banner.png
-description: Learn about installing Python software on your Pi with pip
+description: Zjisti více o instalaci Python softwaru pomocí pip do tvého Raspberry Pi
 theme: red
 duration: 2
 listed: true
@@ -19,7 +19,7 @@ steps:
 - title: Úvod
 - title: Co budeš potřebovat
 - title: Co je pip?
-- title: Upgrading pip
+- title: Aktualizace pip
   completion:
   - engaged
 - title: Použití pip
