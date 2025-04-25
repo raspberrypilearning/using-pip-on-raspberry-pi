@@ -1,14 +1,14 @@
 ## Aktualizace pip
 
-If you're using an older version of Raspbian, the version of pip installed might out of date, which can cause problems. Therefore, it's a good idea to keep your software up to date.
+Pokud používáte starší verzi Raspbianu, nainstalovaná verze pip může být zastaralá, což může způsobit problémy. Proto je dobré udržovat software aktuální.
 
-To upgrade all the software on your Raspberry Pi, including `pip`:
+Chceš-li upgradovat veškerý software na tvéím Raspberry Pi, včetně `pip`:
 
-- Open a terminal window by clicking **Menu** > **Accessories** > **Terminal**.
+- Otevři okno terminálu kliknutím na **Nabídka** > **Příslušenství** > **Terminál**.
 
-![open a terminal](images/pi_open_terminal.PNG)
+![otevřít terminál](images/pi_open_terminal.PNG)
 
-- Type in the following commands to update and upgrade Raspbian.
+- Chceš-li aktualizovat a upgradovat Raspberry Pi OS, zadej následující příkazy.
 
 ```bash
 sudo apt-get update
