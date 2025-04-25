@@ -1,4 +1,4 @@
-## Upgrading pip
+## Aktualizace pip
 
 If you're using an older version of Raspbian, the version of pip installed might out of date, which can cause problems. Therefore, it's a good idea to keep your software up to date.
 
