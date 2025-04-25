@@ -1,10 +1,10 @@
 ## Co budeš dělat
 
-Find out how to use pip on a Raspberry Pi to easily install useful Python software.
+Zjisti, jak používat pip na Raspberry Pi ke snadné instalaci užitečného softwaru Python.
 
 ## Co se naučíš
 
-By following this guide, you will learn:
+Podle tohoto návodu se naučíš:
 
 - Co je pip?
-- How to use pip to install Python packages on Raspbian
+- Jak používat pip k instalaci balíčků Python na Raspberry Pi OS
