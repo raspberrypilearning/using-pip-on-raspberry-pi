@@ -25,6 +25,5 @@ steps:
   - title: Použití pip
     completion:
       - internal
-  - title: Co dál?
     completion:
       - external
