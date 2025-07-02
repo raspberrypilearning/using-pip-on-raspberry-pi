@@ -25,6 +25,5 @@ steps:
 - title: Using pip
   completion:
   - internal
-- title: What next?
   completion:
   - external
